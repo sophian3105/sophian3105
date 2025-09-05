@@ -1,4 +1,7 @@
-# Hi there 👋 I'm Sophia Nguyen
+<div align="center">
+
+# Hi there 👋 I'm Sophia Nguyen  
+</div>
 
 <!--
 **sophian3105/sophian3105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="left">
+  
 ## 🙈About Me
 🎓I am currently a software engineering student at the University of Waterloo!
 
@@ -43,4 +47,5 @@ Here are some ideas to get you started:
 
 ## 
 
+</div>
 
